@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i#!/usr/bin/python3
 """Defines unittests for console.py.
 
 Unittest classes:
@@ -1567,3 +1567,4 @@ class TestHBNBCommand_count(unittest.TestCase):
 
 
 if __name__ == "__main__":
+    unittest.main()
